@@ -1,6 +1,6 @@
 # AI-Tricker
 
-A project focused on tricking image recognition AI
+A simple experiment with an image recognition AI exploit
 
 
 <h2 align="center">What a human sees // What an AI sees</h2>
